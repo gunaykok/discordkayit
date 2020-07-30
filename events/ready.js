@@ -15,9 +15,9 @@ module.exports = client => {
   //idle = boşta
   //dnd = rahatsız etmeyin
   //online = çevrimiçi
-  client.user.setGame(`yiid 💗`);
+  client.user.setGame(`CFG EKİP KRALDIR <3`);
 //    var oyun = [
-  //      `yiid 💗`,
+  //      `CFG EKİP KRALDIR <3`,
     //];
   
     //setInterval(function() {
